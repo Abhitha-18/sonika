@@ -1,2 +1,6 @@
 welcome to Banglore
+<<<<<<< Updated upstream
 welcome to silkboard
+=======
+welcome to BTM
+>>>>>>> Stashed changes
